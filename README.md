@@ -74,7 +74,8 @@ Prepare the dataset/Train the model:
 
 
 Prepare the dataset:
-Ensure your images are organized in directories for each class.
+Ensure your images are organized in directories for each class as it is in sample uploaded. Given dataset is just sample not that was used originally.
+if you want to train the model again use use either your own dataset or refer some other sources like Kaggle, etc.
 
 
 File Structure
