@@ -97,7 +97,7 @@ MyProject/
 │   ├── pneumonia_model.h5
 │   └── malaria_model.h5
 │
-├── 
+├── scripts/
 │   ├── train_heart_disease.py
 │   ├── train_diabetes.py
 │   ├── train_pneumonia.py
@@ -107,7 +107,9 @@ MyProject/
 ├── gui.py
 ├── utils.py
 ├── all Images directly
-└── ..............
+└── 
+├── Data/
+    ..............
     ..............
 
     
