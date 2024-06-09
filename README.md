@@ -40,7 +40,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/human-disease-recognition.git
+git clone https://github.com/pyare00/Human-Multiple-Disease-Recognition.git
 cd Myproject
 
 Create a virtual environment and activate it:
